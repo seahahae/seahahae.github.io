@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: h-archive # blog_name will be displayed in your blog page
-blog_description: a simple place for my study notes
+blog_description: a simple archive of my study notes
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
