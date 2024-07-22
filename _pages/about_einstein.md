@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+그런데 또 이즈막하야 어늬 사이엔가
+이 흰 바람벽엔
+내 쓸쓸한 얼굴을 쳐다보며
+이러한 글자들이 지나간다
+- 나는 이 세상에서 가난하고 외롭고 높고 쓸쓸하니 살어가도록 태어났다
+그리고 이 세상을 살어가는데
+내 가슴은 너무도 많이 뜨거운 것으로 호젓한 것으로 사랑으로 슬픔으로 가득 찬다
