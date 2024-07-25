@@ -131,8 +131,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: h-archive # blog_name will be displayed in your blog page
-blog_description: a simple archive of my study notes
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: blank
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
